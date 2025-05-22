@@ -34,7 +34,7 @@ This project is a RESTful API backend for a collaborative event management appli
 1. **Clone the repository:**
 
    ```bash
-   git clone [eventmanagement](https://github.com/Aniketf1/eventmanagement.git)
+   git clone https://github.com/Aniketf1/eventmanagement.git
    cd eventmanagement
    python -m venv venv
    pip install requirements.txt
