@@ -2,20 +2,11 @@
 
 This project is a RESTful API backend for a collaborative event management application built using FastAPI. It supports secure user authentication, event creation and management, role-based access control, event versioning with rollback, and a diff tool to compare changes between event versions.
 
-> **Note:** The project is hosted on a free platform for demonstration purposes.  
-> **Live Demo:** [https://replit.com/@YourUsername/CollaborativeEventManagementAPI](https://replit.com/@YourUsername/CollaborativeEventManagementAPI)  
-> *(Replace the URL with your actual deployment link.)*
-
 ## Table of Contents
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
-- [Running the Project](#running-the-project)
-- [Deployment](#deployment)
-- [API Endpoints](#api-endpoints)
-- [Project Structure](#project-structure)
-- [License](#license)
 
 ## Features
 
@@ -43,5 +34,8 @@ This project is a RESTful API backend for a collaborative event management appli
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone [eventmanagement](https://github.com/Aniketf1/eventmanagement.git)
+   cd eventmanagement
+   python -m venv venv
+   pip install requirements.txt
+   fastapi run dev
