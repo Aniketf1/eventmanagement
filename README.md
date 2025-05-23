@@ -38,4 +38,4 @@ This project is a RESTful API backend for a collaborative event management appli
    cd eventmanagement
    python -m venv venv
    pip install requirements.txt
-   fastapi run dev
+   fastapi dev main.py
