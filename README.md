@@ -39,3 +39,6 @@ This project is a RESTful API backend for a collaborative event management appli
    python -m venv venv
    pip install requirements.txt
    fastapi dev main.py
+
+2. **Hosted URL**
+`https://eventmanagement-3q2l.onrender.com/docs`
