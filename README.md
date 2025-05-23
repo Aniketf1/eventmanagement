@@ -41,4 +41,5 @@ This project is a RESTful API backend for a collaborative event management appli
    fastapi dev main.py
 
 2. **Hosted URL**
-`https://eventmanagement-3q2l.onrender.com/docs`
+```url
+https://eventmanagement-3q2l.onrender.com/docs
